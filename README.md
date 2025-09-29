@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 About Me
+## 🔥 About me
 
 * 🌱 Currently improving my skills in **Angular, Symfony, and database management**
 * 💼 Building projects with **Angular + Symfony + PostgreSQL** stack
@@ -15,7 +15,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Languages and tools
 
 ### Frontend
 
