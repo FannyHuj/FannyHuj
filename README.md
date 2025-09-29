@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **FannyHuj/FannyHuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 Hi, I'm Fanny
@@ -50,4 +49,3 @@
 
 ⭐️ From Fanny (https://github.com/FannyHuj)
 
--->
