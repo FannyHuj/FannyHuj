@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Fanny
 
 🎓 RNCP-certified **Web & Application Developer**.
+
 💻 I love building projects with Angular, Symfony, and modern web technologies.
 
 ---
